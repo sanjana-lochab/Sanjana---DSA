@@ -30,12 +30,36 @@ public:
         }
         return dp[0];
     }
+    //using space optimization approch
+    int spaceOptimization(vector<int>& nums,int i ){
+        // base case
+        int next1=0;
+        int next2 = 0;
+        int curr;
+        for(int i =nums.size()-1;i>=0;i--){
+            int temp = 0;
+            if(i+2<=nums.size()-1){
+                 temp = next2;
+            }
+            
+            int include = nums[i]+ temp;
+            int exclude = 0 +next1;
+            curr = max(include, exclude);
+
+            // ye main bhul jati hu
+            next2 = next1;
+            next1= curr;
+            
+        }
+        return curr;
+    }
     int rob(vector<int>& nums) {
         int i = 0;
         //return solve(nums,i);
         // top dowm approch
         vector<int> dp(nums.size()+1,-1);
         //return solveusingtopdownapproch(nums,dp,i);
-        return solveusingbottomupapproch(nums,dp,i);
+        // return solveusingbottomupapproch(nums,dp,i);
+        return spaceOptimization(nums,i);
     }
 };
