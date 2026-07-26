@@ -14,11 +14,28 @@ public:
         dp[i] = ans;
         return dp[i];
     }
+    //using bottom up approch
+    int solveusingbottomupapproch(vector<int>& nums,vector<int>& dp,int i ){
+        // base case
+        dp[nums.size()] = 0;
+        for(int i =nums.size()-1;i>=0;i--){
+            int temp = 0;
+            if(i+2<=nums.size()-1){
+                 temp = dp[i+2];
+            }
+            
+            int include = nums[i]+ temp;
+            int exclude = 0 +dp[i+1];
+            dp[i] = max(include, exclude);
+        }
+        return dp[0];
+    }
     int rob(vector<int>& nums) {
         int i = 0;
         //return solve(nums,i);
         // top dowm approch
         vector<int> dp(nums.size()+1,-1);
-        return solveusingtopdownapproch(nums,dp,i);
+        //return solveusingtopdownapproch(nums,dp,i);
+        return solveusingbottomupapproch(nums,dp,i);
     }
 };
