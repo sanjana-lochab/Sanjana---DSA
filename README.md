@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0198-house-robber](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
