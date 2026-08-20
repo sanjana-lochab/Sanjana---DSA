@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
