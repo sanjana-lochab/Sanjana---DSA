@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
