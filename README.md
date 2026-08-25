@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -131,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
