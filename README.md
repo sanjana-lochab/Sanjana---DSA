@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
