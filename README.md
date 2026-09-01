@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 ## Math
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0485-max-consecutive-ones) |
@@ -187,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Prefix Sum
