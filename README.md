@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Prefix Sum
 |  |
 | ------- |
