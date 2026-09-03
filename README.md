@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Prefix Sum
