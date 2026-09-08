@@ -18,6 +18,7 @@ public:
             q.pop();
             int r = dir.first;
             int c = dir.second;
+            grid[r][c] = 1;
             if(r==n-1&&c==m-1) return dis;
             for(int i = 0;i<8;i++){
                 int drs = r + dr[i];
