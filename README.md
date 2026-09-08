@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
