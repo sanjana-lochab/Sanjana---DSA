@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0435-non-overlapping-intervals) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
