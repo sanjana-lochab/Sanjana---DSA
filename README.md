@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
