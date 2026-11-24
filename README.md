@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0435-non-overlapping-intervals) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0435-non-overlapping-intervals) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
 ## Bracket Sequences
 |  |
 | ------- |
