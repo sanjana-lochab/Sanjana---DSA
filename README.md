@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/sanjana-lochab/Sanjana---DSA/tree/master/0704-binary-search) |
 ## Bracket Sequences
 |  |
 | ------- |
